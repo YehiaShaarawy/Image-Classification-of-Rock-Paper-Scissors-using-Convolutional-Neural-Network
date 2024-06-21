@@ -21,4 +21,4 @@ The result above shows that the accuracy is increasing steadily while the loss i
 
 <img width="315" alt="Picture6" src="https://github.com/YehiaSharawy/Image-Classification-of-Rock-Paper-Scissors-using-Convolutional-Neural-Network/assets/65984199/587e6b11-1d44-4636-b555-335e9ac4b725">
 
-Next we evaluate the validation data and we got <b>96%</b> accuracy, which is pretty high. We can test it by uploading new images and let the model predicts whether it is a paper, rock, or scissors gesture.
+Next we evaluate the validation data and we got <b>97%</b> accuracy, which is pretty high. We can test it by uploading new images and let the model predicts whether it is a paper, rock, or scissors gesture.
